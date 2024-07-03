@@ -28,6 +28,10 @@ Using Api to get Pg Software game licence, Revolution Licence
 * Fivers pannel
 * Others
 
+  #CONTACT ME
+  * 27997602355
+  * davi_b.rezende
+
 ![Cassino Config 2](https://github.com/Daviqr1/iGaming-Cassino/assets/84293017/426ed39b-9cc5-427a-9bb9-d7930f4bd45f)
 
 
